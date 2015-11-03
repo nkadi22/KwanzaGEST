@@ -1,0 +1,2 @@
+# KwanzaGEST
+Stock management software
